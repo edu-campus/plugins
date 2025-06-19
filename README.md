@@ -1,3 +1,4 @@
+# This documentation is ai generated
 # GitHub Packages Deployment Guide
 
 This project is configured to deploy artifacts to GitHub Packages. Follow these steps to set up and use this configuration.
