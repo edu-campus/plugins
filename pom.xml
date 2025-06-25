@@ -33,6 +33,14 @@
     </repository>
   </distributionManagement>
 
+  <dependencies>
+    <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>2.2</version>
+    </dependency>
+  </dependencies>
+
   <build>
     <plugins>
       <plugin>
